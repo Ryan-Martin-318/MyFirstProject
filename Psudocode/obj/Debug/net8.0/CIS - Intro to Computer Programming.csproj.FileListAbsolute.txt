@@ -1,0 +1,14 @@
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS - Intro to Computer Programming\obj\Debug\net8.0\CIS - Intro to Computer Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS - Intro to Computer Programming\obj\Debug\net8.0\CIS - Intro to Computer Programming.AssemblyInfoInputs.cache
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS - Intro to Computer Programming\obj\Debug\net8.0\CIS - Intro to Computer Programming.AssemblyInfo.cs
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS - Intro to Computer Programming\obj\Debug\net8.0\CIS - Intro to Computer Programming.csproj.CoreCompileInputs.cache
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS - Intro to Computer Programming\bin\Debug\net8.0\CIS - Intro to Computer Programming.exe
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS - Intro to Computer Programming\bin\Debug\net8.0\CIS - Intro to Computer Programming.deps.json
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS - Intro to Computer Programming\bin\Debug\net8.0\CIS - Intro to Computer Programming.runtimeconfig.json
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS - Intro to Computer Programming\bin\Debug\net8.0\CIS - Intro to Computer Programming.dll
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS - Intro to Computer Programming\bin\Debug\net8.0\CIS - Intro to Computer Programming.pdb
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS - Intro to Computer Programming\obj\Debug\net8.0\CIS - Intro to Computer Programming.dll
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS - Intro to Computer Programming\obj\Debug\net8.0\refint\CIS - Intro to Computer Programming.dll
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS - Intro to Computer Programming\obj\Debug\net8.0\CIS - Intro to Computer Programming.pdb
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS - Intro to Computer Programming\obj\Debug\net8.0\CIS - Intro to Computer Programming.genruntimeconfig.cache
+C:\Users\rm1027324\OneDrive\2025-Fall\CIS - Intro to Computer Programming\obj\Debug\net8.0\ref\CIS - Intro to Computer Programming.dll

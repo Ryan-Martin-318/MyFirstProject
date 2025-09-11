@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CIS - Intro to Computer Programming/1.0.0": {
+        "runtime": {
+          "CIS - Intro to Computer Programming.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CIS - Intro to Computer Programming/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
